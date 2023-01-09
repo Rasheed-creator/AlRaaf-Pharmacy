@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Cetirizine 45mg Film-coated",
+    "description": "Cetirizine hydrochloride is the active ingredient of Cetirizine 10 mg Tablets.",
+    "price": 50.0,
+    "image": "../assets/products/product1.jpg",
+    "reviews": 3,
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "title": "Ibuprofen 500mg Capsule",
+    "description": "Ibuprofen is used to relieve pain from various conditions such as headache, dental pain, menstrual cramps, muscle aches, or arthritis.",
+    "price": 68.0,
+    "image": "../assets/products/product2.jpg",
+    "reviews": 20,
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "title": "Augmentin 625 Duo Tablet",
+    "description": "It is a penicillin-type of antibiotic that helps your body fight infections caused by bacteria. ",
+    "price": 132.0,
+    "image": "../assets/products/product3.jpg",
+    "reviews": 25,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Multivitamin Tablet ",
+    "description": "This medication is a multivitamin product used to treat or prevent vitamin deficiency due to poor diet, certain illnesses, or during pregnancy. Vitamins are important building blocks of the body and help keep you in good health.",
+    "price": 100.0,
+    "image": "../assets/products/product4.jpg",
+    "reviews": 30,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "title": "DOLO 650mg Tablet",
+    "description": "Dolo 650 Tablet helps relieve pain and fever by blocking the release of certain chemical messengers responsible for fever and pain. ",
+    "price": 33.0,
+    "image": "../assets/products/product5.jpg",
+    "reviews": 100,
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "title": "Azithromicin 250mg Tablets",
+    "description": "Azithromycin is used to treat certain bacterial infections, such as bronchitis; pneumonia; and infections of the ears, lungs, sinuses, skin, throat, and reproductive organs",
+    "price": 71.0,
+    "image": "../assets/products/product6.jpg",
+    "reviews": 23,
+    "rating": 3
+  },
+  {
+    "id": 7,
+    "title": "Lactocalamine Cream",
+    "description": "Lacto Calamine Lotion helps to provide a light texture on the skin.It benefits to unclog the pores and helps reduce the occurrence of pimples and blackheads. ",
+    "price": 130.0,
+    "image": "../assets/products/product7.jpg",
+    "reviews": 45,
+    "rating": 3
+  },
+  {
+    "id": 8,
+    "title": "Ascoril-LS Syrup 250ml ",
+    "description": "Ascoril LS Syrup is a combination drug used to treat mucus-producing cough. It thins mucus in the nose, windpipe, and lungs to make coughing easier.",
+    "price": 120.0,
+    "image": "../assets/products/product8.jpg",
+    "reviews": 23,
+    "rating": 3
+  }
+]
