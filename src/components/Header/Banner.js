@@ -14,7 +14,7 @@ const Banner = () => {
 
                         <div className="flex flex-col space-y-2">
                             <img className="w-24" src="../../../assets/banner/medal.png" alt="banner" />
-                            <h1 className="poppins text-gray-700 font-semibold text-3xl lg:text-3xl leading-relaxed">Best Quality <br /> <span className="text-5xl">Medicine in 2021</span></h1>
+                            <h1 className="poppins text-gray-700 font-semibold text-3xl lg:text-3xl leading-relaxed">Best Quality <br /> <span className="text-5xl">Medicine since 2020</span></h1>
                             <p className="text-gray-500 text-light text-sm">Our products are world best product.We sell the real projects.<br/> Welcome to our shop.</p>
                         </div>
                         {/* button  */}

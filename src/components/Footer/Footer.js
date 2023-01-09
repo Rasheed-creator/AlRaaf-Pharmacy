@@ -6,17 +6,17 @@ const Footer = () => {
 
     const footerLink = [
         { id: 1, text: 'Monday to Sunday' },
-        { id: 2, text: '7 am to 9 pm' },
-        { id: 3, text: '45 Hudson Street' },
-        { id: 4, text: 'Villa Rica, GA 30180' },
+        { id: 2, text: '10 am to 11 pm' },
+        { id: 3, text: 'Rein Bazar' },
+        { id: 4, text: 'Hyderabad, 500023' },
         { id: 5, text: 'Pharmacy Help Line' },
         { id: 6, text: 'Prescribing Tools' },
         { id: 7, text: 'Specialty Medications' },
         { id: 8, text: 'Pharmacy Claims' },
-        { id: 9, text: '+ (713)534-2319' },
-        { id: 10, text: '+ (733)364-5123' },
-        { id: 11, text: '+ (265)445-1158' },
-        { id: 12, text: '+ (713)534-2319' },
+        { id: 9, text: '+91 7396812159' },
+        { id: 10, text: '+91 7097112927' },
+        // { id: 11, text: '+ (265)445-1158' },
+        // { id: 12, text: '+ (713)534-2319' },
     ]
     return (
         <Fade left>
@@ -53,7 +53,7 @@ const Footer = () => {
                         <nav className="list-none mb-10 flex flex-col space-y-2">
                             {/* list  */}
                             {
-                                footerLink.slice(8, 12).map(item => (
+                                footerLink.slice(8, 10).map(item => (
                                     <a href="" target="_blank" rel="noopener noreferrer" key={item.id} className="text-sm hover:underline">{item.text}</a>
                                 ))
                             }
