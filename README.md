@@ -23,3 +23,4 @@ An Ecommerce Pharmacy website.
 ## Scan the QR code to visit the website
 
 <img src="https://github.com/marazzax/AlRaaf-Pharmacy/blob/main/public/assets/qr%20code.jpeg" height=200 alt="qr-code" ></img>
+
